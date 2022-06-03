@@ -1,11 +1,5 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
-![](https://raw.githubusercontent.com/tijko/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tijko/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-</a>
-
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
