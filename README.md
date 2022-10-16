@@ -1,3 +1,5 @@
+[![Generate Stats Images](https://github.com/tijko/tijko-github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/tijko/tijko-github-stats/actions/workflows/main.yml)
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 Generate visualizations of GitHub user and repository statistics using GitHub
